@@ -1,0 +1,4 @@
+name: MakudHidePresence
+version: 1.12.2
+main: dev.whymakud.hide.Presence
+authors: [ whymakud ]
